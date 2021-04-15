@@ -44,5 +44,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This Barber Shop Project [Not Yet Updated](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Porgramming-Hero-web-course/complete-website-client-abidnuri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Porgramming-Hero-web-course/complete-website-client-abidnuri/issues"
+  },
+  "homepage": "https://github.com/Porgramming-Hero-web-course/complete-website-client-abidnuri#readme"
 }
